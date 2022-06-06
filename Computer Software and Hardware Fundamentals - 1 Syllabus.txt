@@ -1,0 +1,143 @@
+
+    COMPUTER SOFTWARE and HARDWARE FUNDAMENTALS         
+    SYLLABUS :
+-------------------------------------------------------------------------------------
+
+COMPUTER :
+----------
+Computer Fundamentals open link
+What is Computer
+History of Computer
+Types of Computer
+_______________________________________________________________________________
+
+COMPUTER COMPONENTS :
+---------------------
+Computer Components
+Input Devices
+Output Devices
+Central Processing Unit
+Hardware
+Software
+Operating System
+_______________________________________________________________________________
+
+COMPUTER MEMORY :
+-----------------
+Computer Memory
+Register Memory
+Cache Memory
+Primary Memory
+RAM
+ROM
+Secondary Memory
+Memory Units
+_______________________________________________________________________________
+
+COMPUTER NETWORK :
+------------------
+Computer Network
+_______________________________________________________________________________
+
+COMPUTER VIRUS :
+----------------
+Computer Virus
+______________________________________________________________________________
+
+NUMBER SYSTEMS :
+----------------
+Number Systems
+______________________________________________________________________________
+
+INTERNET :
+----------
+Internet
+Intranet
+Extranet
+Website
+______________________________________________________________________________
+
+SHORTCUT KEYS :
+---------------
+Computer Shortcut Keys
+______________________________________________________________________________
+
+TERMS :
+-------
+Windows
+Computer Ports
+Program
+Printers
+Microphone
+Monitor
+Motherboard
+Incognito Mode
+Mouse
+Memory Card
+What is a CD
+What is ID
+ISO
+What is Character
+What is a server
+What is E-mail
+What is Keyboard
+What is Remote
+What is Webcam
+What is Data
+What is URL
+What is keypad
+What is hub
+What is File
+Bytes
+Exabyte
+Gb
+Kilobyte
+Megabyte
+Petabyte
+Terabyte
+What is HDD
+What is SSD
+Memory vs Storage
+Non-volatile memory
+What is M.2 SSD
+How To Reboot A Computer
+Multi-Level Cell
+NAND Flash Memory
+What is lock screen
+Block Storage
+USB flash drive
+VRAM
+Cloud Hosting
+CompactFlash card
+What is WAP?
+Classification of Memory
+Hardware vs Software
+Uses of Computer
+Uses of Internet
+What is Abacus
+Best Proxy Servers
+SSL vs TLS
+Web Console
+What is the GPU
+LAN vs WAN
+SSD vs HDD
+Introduction to Computer
+Data Migration
+JEDEC
+MLC vs TLC vs SLC NAND Flash
+VirtualBox Installation
+Num Lock
+What is a PC
+What is MAC
+Continuous Data Protection
+Persistent Storage
+What is Bit
+Software Definition
+What is a File System
+When was the first computer invented
+How many generations of the computer
+Minicomputer
+Fourth Generation of Computer
+What is a Username
+What is ALU
+____________________________________________________________________________________
